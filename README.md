@@ -14,7 +14,7 @@ I currently work at Inbiot, where I build and maintain the MyInbiot platform, a 
 
 My work covers React and React Native on the front end, and Node.js, Python, and AWS on the back end.
 
-Outside of code, I enjoy weightlifting, sim racing, and brewing coffee, all endlessly deep hobbies that become more rewarding the more time you invest in them.
+Outside of code, I enjoy weightlifting, sim racing, and brewing specialty coffee, all endlessly deep hobbies that become more rewarding the more time you invest in them.
 
 I have a website where I try to make sense of what I see and feel by writing out what I think. You can visit it [here](https://albertovan.com).
 
