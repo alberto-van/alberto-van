@@ -20,11 +20,11 @@ I have a website where I try to make sense of what I see and feel by writing out
 
 If any of this made you curious, feel free to reach out. Seriously, I’m always happy to talk.
 
-## GitHub Stats
-
-<a href="https://github.com/alberto-van?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true&amp;theme=github-dark">
-    <img alt="Alberto's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true">
-  </picture>
-</a>
+<div align="center">
+  <a href="https://github.com/alberto-van?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true&amp;theme=github-dark">
+      <img alt="Alberto's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true">
+    </picture>
+  </a>
+</div>
