@@ -19,3 +19,7 @@ Outside of code, I enjoy weightlifting, sim racing, and brewing specialty coffee
 I have a website where I try to make sense of what I see and feel by writing out what I think. You can visit it [here](https://albertovan.com).
 
 If any of this made you curious, feel free to reach out. Seriously, I’m always happy to talk.
+
+## GitHub Stats
+
+[![Alberto's GitHub stats](https://github-stats-extended.vercel.app/api?username=alberto-van)](https://github.com/stats-organization/github-stats-extended)
