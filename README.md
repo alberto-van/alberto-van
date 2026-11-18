@@ -22,4 +22,4 @@ If any of this made you curious, feel free to reach out. Seriously, I’m always
 
 ## GitHub Stats
 
-[![Alberto's GitHub stats](https://github-stats-extended.vercel.app/api?username=alberto-van&show=contributions)](https://github.com/stats-organization/github-stats-extended)
+[![Alberto's GitHub contribution streak](https://streak-stats.demolab.com/?user=alberto-van&hide_border=true)](https://github.com/alberto-van?tab=overview)
