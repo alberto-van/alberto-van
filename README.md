@@ -22,4 +22,9 @@ If any of this made you curious, feel free to reach out. Seriously, I’m always
 
 ## GitHub Stats
 
-[![Alberto's GitHub contribution streak](https://streak-stats.demolab.com/?user=alberto-van&hide_border=true)](https://github.com/alberto-van?tab=overview)
+<a href="https://github.com/alberto-van?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true&amp;theme=github-dark">
+    <img alt="Alberto's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true">
+  </picture>
+</a>
