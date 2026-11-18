@@ -23,7 +23,7 @@ If any of this made you curious, feel free to reach out. Seriously, I’m always
 <div align="center">
   <a href="https://github.com/alberto-van?tab=overview">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true&amp;theme=github-dark">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true&amp;theme=github-dark&amp;ring=4DA6FF&amp;stroke=4DA6FF&amp;dates=4DA6FF&amp;fire=FB8C00">
       <img alt="Alberto's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=alberto-van&amp;hide_border=true">
     </picture>
   </a>
